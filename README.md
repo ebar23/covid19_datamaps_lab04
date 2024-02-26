@@ -7,3 +7,5 @@ completed in this assignment was done by Eric Acero Rosas.
 The Population Map is in the people per square mile measurement.
 
 The WA COVID-19 Cases map is in cases per 10 thousand people.
+
+**Map Link:** https://ebar23.github.io/covid19_datamaps_lab04/index.html#
